@@ -3,7 +3,7 @@
 **Ola! Bem vindo ao meu livro de receitas.**
 
  - Strogonoff de Frango
- - Pave
+ - Torta de chocolate
  - Bolo de cenoura
  - Bolo de fuba
  
